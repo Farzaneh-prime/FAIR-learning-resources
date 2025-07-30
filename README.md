@@ -1,13 +1,13 @@
 # Applying the FAIR Principles to Open Educational Resources: A Semantic Similarity Approach to Improve Resource Discovery
 This repository accompanies the manuscript "Applying the FAIR Principles to Open Educational Resources: A Semantic Similarity Approach to Improve Resource Discovery". Refer to the paper for more details on the methodology and findings.
 
-## Data license
+## Data License
 This repository contains code and data that are licensed under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-## Model license
+## Model License
 The model used in this repository is licensed under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-## Code license
+## Code License
 The code in this repository is licensed under the [MIT License](https://opensource.org/license/mit/).
 
 ## External Data Source
