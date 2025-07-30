@@ -17,6 +17,9 @@ This work relies on semantic metadata from the NFDI4Earth KnowledgeHub. The rele
 
 Note: This endpoint may be updated by the maintainers of the Knowledge Hub.  
 
+## Data & code
+https://doi.org/10.5281/zenodo.16602457
+
 ## Model
 https://doi.org/10.57967/hf/6086
 
