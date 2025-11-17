@@ -1,5 +1,5 @@
 # [Applying the FAIR Principles to Open Educational Resources: A Semantic Similarity Approach to Improve Resource Discovery](https://doi.org/10.1109/ACCESS.2025.3594963)
-This repository accompanies the manuscript "Applying the FAIR Principles to Open Educational Resources: A Semantic Similarity Approach to Improve Resource Discovery". Refer to the paper for more details on the methodology and findings.
+This repository accompanies the manuscript "Applying the FAIR Principles to Open Educational Resources: A Semantic Similarity Approach to Improve Resource Discovery". Refer to the paper for more details on the methodology and findings [https://doi.org/10.1109/ACCESS.2025.3594963](https://doi.org/10.1109/ACCESS.2025.3594963).
 
 ## Data License
 This repository contains code and data that are licensed under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
@@ -28,4 +28,5 @@ Please note that there may be variations in file names or structure compared to 
 
 ## Contact
 For any questions or inquiries regarding this repository, please contact: [Farzaneh Sadeghi](farzaneh-sadeghi91@outlook.com)
+
 
